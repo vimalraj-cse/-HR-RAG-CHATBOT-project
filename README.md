@@ -28,6 +28,8 @@ REST API using FastAPI
 
 4.It has a FastAPI backend and a Streamlit frontend, both containerized with Docker.
 
+NOTE : In the .env.example file add your groq api key and also change the same api key in the docker-compose.yml 
+
 
 A. Clone the repo
 
@@ -165,6 +167,7 @@ hr-rag-chatbot/
 │── docker-compose.yml
 
 │── README.md
+
 
 
 
